@@ -6,5 +6,6 @@
   ## Fun fact:
   - I went to school and played football with Arsenals current captain!
     
-  ## Hobbies: Guitar, Gym and Games.
+  ## Hobbies:
+  Guitar, Gym and Games.
 
